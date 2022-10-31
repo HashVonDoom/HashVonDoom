@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HashVonDoom, 
+- 👀 I’m interested in programming, cyber security and cryptography
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Anything
